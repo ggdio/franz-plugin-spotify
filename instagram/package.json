@@ -1,0 +1,24 @@
+{
+  "id": "instagram",
+  "name": "Instagram",
+  "version": "1.0.0",
+  "description": "Instagram",
+  "main": "index.js",
+  "author": "Guilherme Dio <ggrdio@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.instagram.com/",
+    "serviceName": "Instagram",
+    "message": "Instagram is a simple way to capture and share your moments.",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
