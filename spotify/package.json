@@ -9,6 +9,6 @@
   "repository": "https://github.com/ggdio/franz-plugin-spotify",
   "config": {
     "serviceURL": "https://open.spotify.com",
-    "hasNotificationSound": true
+    "hasNotificationSound": false
   }
 }
