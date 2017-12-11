@@ -1,14 +1,14 @@
 {
-  "id": "messenger",
-  "name": "Messenger",
-  "version": "1.0.2",
-  "description": "Facebook Messenger",
+  "id": "spotify",
+  "name": "Spotify",
+  "version": "1.0.0",
+  "description": "Spotify Player",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "Guilherme Dio <ggrdio@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/meetfranz/recipe-messenger",
+  "repository": "https://github.com/ggdio/franz-plugin-spotify",
   "config": {
-    "serviceURL": "https://messenger.com",
+    "serviceURL": "https://open.spotify.com",
     "hasNotificationSound": true
   }
 }
