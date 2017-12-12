@@ -1,0 +1,16 @@
+{
+  "id": "custom",
+  "name": "Custom",
+  "version": "1.0.0",
+  "description": "Custom - Any HTTPS Service",
+  "main": "index.js",
+  "author": "Guilherme Dio <ggrdio@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamId}",
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true,
+    "hasTeamId": true
+  }
+}
