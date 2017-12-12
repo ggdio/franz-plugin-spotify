@@ -1,4 +1,6 @@
-# franz-plugins
+# franz-recipes
+
+## Custom made recipes for Franz App
 
 ## Installation
 
