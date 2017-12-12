@@ -1,0 +1,24 @@
+{
+  "id": "youtube",
+  "name": "Youtube",
+  "version": "1.0.0",
+  "description": "Youtube",
+  "main": "index.js",
+  "author": "Guilherme Dio <ggrdio@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://youtube.com",
+    "serviceName": "Instagram",
+    "message": "Youtube - Video Streaming",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
