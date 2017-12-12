@@ -2,23 +2,15 @@
   "id": "gitlab",
   "name": "Gitlab",
   "version": "1.0.0",
-  "description": "Gitlab - GIT SCM",
+  "description": "Gitlab - Git SCM",
   "main": "index.js",
   "author": "Guilherme Dio <ggrdio@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://{gitlab-url}",
-    "serviceName": "Gitlab",
-    "message": "",
-    "popup": [],
-    "hasNotificationSound": false,
-    "hasIndirectMessages": false,
-    "hasTeamID": false,
-    "customURL": false,
-    "hostedOnly": false,
-    "webviewOptions": {
-      "disablewebsecurity": ""
-    },
-    "openDevTools": false
+    "serviceURL": "https://{teamId}",
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true,
+    "hasTeamId": true
   }
 }
