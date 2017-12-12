@@ -7,10 +7,10 @@
   "author": "Guilherme Dio <ggrdio@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://{teamId}",
+    "serviceURL": "https://gitlab.com",
     "hasNotificationSound": true,
     "hasDirectMessages": true,
     "hasIndirectMessages": true,
-    "hasTeamId": true
+    "hasTeamId": false
   }
 }
